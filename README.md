@@ -22,7 +22,8 @@
  
  ![Interfaz 2](https://github.com/JmR1310/ConversorDeMonedasJmR/assets/162045054/0b24d6f3-5a95-457c-ab00-35a36995eb45)
                                       
-                                      
-
+  <p>
+    Autor: Jhordan Matos
+  </p>
 
    
