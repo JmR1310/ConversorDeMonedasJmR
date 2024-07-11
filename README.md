@@ -11,9 +11,8 @@
  <p>
      Al incio del programa se presenta al usuario una pequenia ineterfaz en la cual pueda escoger el cambio de divisa deseado.                                               
  </p>
- <image>
-       ![Interfaz](https://github.com/JmR1310/ConversorDeMonedasJmR/assets/162045054/31f268a7-e8b1-42bc-8950-5dc4eaafbef1)
- </image>
+ <img="https://github.com/JmR1310/ConversorDeMonedasJmR/assets/162045054/31f268a7-e8b1-42bc-8950-5dc4eaafbef1">
+
  <p>
   Sucesivamente se le pregunta al usuario la cantidad de dinero a cambiar. Luego se muestra la suma efectiva de dinero que dispondrà 
   el usuario una vez efectuado el cambio, ademàs de evidenziar la tasa de cambio que ha sido utilizada.
