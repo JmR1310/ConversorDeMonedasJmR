@@ -1,4 +1,4 @@
-Conversor de Monedas
+<h1>Conversor de Monedas</h1>
   Este programa facilita a los usuarios con una conversion de divisas rapida e intuitiva. 
   Las divisas implementadas hasta el momento son: 
                                                     Dolar / Peso Argentino  (ARS)
