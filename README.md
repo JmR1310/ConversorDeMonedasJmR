@@ -1,9 +1,16 @@
 <h1>Conversor de Monedas</h1>
+  <p>
   Este programa facilita a los usuarios con una conversion de divisas rapida e intuitiva. 
   Las divisas implementadas hasta el momento son: 
-                                                    Dolar / Peso Argentino  (ARS)
-                                                    Dolar / Peso Brasilenio (BRL)
-                                                    Dolar / Peso Colombiano (COP)
+  </p>
+  <ul>
+    <li> Dolar / Peso Argentino  (ARS)</li>
+    <li> Dolar / Peso Brasilenio (BRL)</li>
+    <li> Dolar / Peso Colombiano (COP)</li>
+</ul>
+                                                    
+                                                   
+                                                    
   Al incio del programa se presenta al usuario una pequenia ineterfaz en la cual pueda escoger el cambio de 
   divisa deseado.                                               
     ![Interfaz](https://github.com/JmR1310/ConversorDeMonedasJmR/assets/162045054/31f268a7-e8b1-42bc-8950-5dc4eaafbef1)
